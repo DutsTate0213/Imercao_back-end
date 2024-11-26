@@ -1,10 +1,13 @@
 import express from "express";
-import routes from "./src/routes/postsRoutes.js"
+// import routes from "./src/routes/postsRoutes.js"
+
+const stringConexao = process.env.STRING_CONEXAO;
+console.log(stringConexao);
+
+
+// routes(app)
 
 const app = express();
-
-routes(app)
-
-app.listen(3010, () => {
-  console.log("Servidor escutando...");
+app.listen(process.env.PORT, () => {
+  console.log(`Servidor escutando na porta ${process.env.PORT}...`);
 });

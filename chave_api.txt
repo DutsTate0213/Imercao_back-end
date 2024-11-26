@@ -1,0 +1,3 @@
+
+ag13022004 - LpADAM00xu3bAXJE
+mongodb+srv://ag13022004:<db_password>@cluster0.jmiuw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

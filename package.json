@@ -28,7 +28,11 @@
     "test": ""
   },
   "dependencies": {
+    "": "file:",
     "express": "^4.21.1",
     "mongodb": "^6.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
