@@ -1,9 +1,11 @@
 # Imersão Back-End da Alura
+
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-yellow.svg"> 
 <img src="https://img.shields.io/badge/Node.js-18+-blue.svg">
 <img src="https://img.shields.io/badge/MongoDB-blue.svg">
 <img src="https://img.shields.io/badge/Google%20Gemini-blue.svg">
-
+</p>
 
 
 ## Resumo do Projeto
