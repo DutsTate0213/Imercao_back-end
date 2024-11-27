@@ -137,10 +137,11 @@ graph TD
     O --> P
     N --> Q
 ```
+### Considerações Finais
 
 Autor: Anderson Gabriel da Silva Campos [@DutsTate0213](https://github.com/DutsTate0213)
 
-###Referências
+### Referências
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Google Gemini AI](https://ai.google.com/gemini)
