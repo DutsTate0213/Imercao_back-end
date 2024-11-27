@@ -1,5 +1,10 @@
 # Imersão Back-End da Alura
 
+## Resumo do Projeto
+
+Este projeto é uma API de backend desenvolvida durante a Imersão Back-End da Alura. Ele utiliza Node.js e Express para criar e gerenciar posts em um banco de dados MongoDB. A API permite listar, criar, atualizar posts e fazer upload de imagens. Além disso, integra a API do Gemini AI para gerar descrições automáticas para os posts. O projeto inclui configuração de variáveis de ambiente, dependências necessárias e instruções para iniciar o servidor localmente.
+
+
 #### Pré-requisitos
 
 - Node.js v18 ou superior - [Download Node.js](https://nodejs.org/)
@@ -132,3 +137,13 @@ graph TD
     O --> P
     N --> Q
 ```
+
+Autor: Anderson Gabriel da Silva Campos [@DutsTate0213](https://github.com/DutsTate0213)
+
+###Referências
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Google Gemini AI](https://ai.google.com/gemini)
+- [Usando mongoDB com Node [mongodb]](https://www.youtube.com/watch?v=4nO0BERnkc0)
+- [Como criar uma API REST com Node.js e Express](https://www.youtube.com/watch?v=4nO0BERnkc0)
+- [Alura](https://www.alura.com.br/)
