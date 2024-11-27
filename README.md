@@ -1,1 +1,5 @@
-# Imerção Back-End
+# Imersão Back-End
+
+Esta API REST foi desenvolvida para gerenciar posts com imagens, oferecendo funcionalidades completas de upload, armazenamento e descrição automática de imagens. O sistema permite listar todos os posts, criar novos posts, fazer upload de imagens e atualizar posts existentes através de endpoints específicos. A aplicação utiliza o MongoDB como banco de dados para persistência das informações e oferece integração com o Google Gemini AI para geração automática de descrições das imagens em português.
+
+A arquitetura do projeto segue boas práticas de desenvolvimento, com separação clara entre rotas, controladores, modelos e serviços. A API inclui configuração de CORS para permitir requisições do frontend (localhost:8000), sistema de upload de arquivos com Multer para gerenciamento de imagens, e integração com serviços externos através de variáveis de ambiente. O projeto serve como uma base sólida para aplicações que necessitam de gerenciamento de conteúdo visual com processamento inteligente de imagens.
